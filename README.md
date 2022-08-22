@@ -9,14 +9,14 @@ Paste this in it.
 
 
 EMAIL_ADDRESS=your email address
+
 EMAIL_PASSWORD=your email password
 
 
 
-
-
-
 TWILIO_ACCOUNT_SID=your twilio account sid
+
+
 TWILIO_AUTH_TOKEN=your twillio auth token
 
 #If your confused on what to fill in these just google it.
