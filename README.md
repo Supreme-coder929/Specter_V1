@@ -11,12 +11,23 @@ Paste this in it.
 EMAIL_ADDRESS=your email address
 EMAIL_PASSWORD=your email password
 
+
+
+
+
+
 TWILIO_ACCOUNT_SID=your twilio account sid
 TWILIO_AUTH_TOKEN=your twillio auth token
 
 #If your confused on what to fill in these just google it.
 
 #1. Make a gmail address, you need 2FA and app password
+
+
+
+
+
+
 #2. Make a twillio account and buy a phone number(its free unless you get upgraded which means you can message anyone in the world without verification). Find the account sid and auth token is easy.
 
 Fill in what it asks.
