@@ -3,6 +3,7 @@ EasyToUse Auto Recon Tool
 
 Step 1:
 
+If you have no idea what a enviornment file is I suggest you watch a youtube video about it.
 To make this file work you must make a enviornment variable in the same folder as the script. name it '.env_var'
 Paste this in it.
 
