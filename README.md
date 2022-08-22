@@ -26,4 +26,4 @@ Step 2:
 do sudo chmod 777 setup.sh
 RUN IT --> ./setup.sh
 
-And your good to go enjoy 
+And your good to go enjoy.
