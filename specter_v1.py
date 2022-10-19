@@ -14,7 +14,7 @@
 # THIS SCRIPT MAY NOT BE THAT GOOD BUT IT WAS JUST FOR ME TO TEST MY CODING SKILLS IM STILL A INTERMEDIATE 
 
 
-# Need modules
+# Needed modules
 
 import nmap3
 import subprocess
